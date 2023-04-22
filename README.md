@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johannefotso
 - 👀 I’m interested in coding and dancing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Johannefotso1@gmail.com 
 
